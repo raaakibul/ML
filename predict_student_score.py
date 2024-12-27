@@ -1,5 +1,5 @@
 # Regression with Supervised Learning
-# We’ll use a linear regression model to predict a student’s score based on the number of hours they study.
+# i’ll use a linear regression model to predict a student’s score based on the number of hours they study.
 
 # Step 1: Import Libraries
 import numpy as np
