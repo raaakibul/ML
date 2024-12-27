@@ -1,3 +1,10 @@
+# Predict House Prices Using Linear Regression
+# Problem: Predict the price of a house based on its size (in square feet).
+# Algorithm: Linear Regression
+
+# Step-by-Step Code Implementation in Python
+
+
 # Step 1: Import necessary libraries
 import numpy as np
 import matplotlib.pyplot as plt
