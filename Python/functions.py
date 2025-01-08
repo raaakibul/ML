@@ -30,3 +30,8 @@ def greet(name, age=18):
 # Calling the function with and without the second argument
 greet("Alice")  # Uses the default age
 greet("Bob", 30)
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Alice"))
