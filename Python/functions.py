@@ -35,3 +35,10 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("Alice"))
+
+
+def greet(name="Guest"):
+    return f"Hello, {name}!"
+
+print(greet())
+print(greet("Bob"))
